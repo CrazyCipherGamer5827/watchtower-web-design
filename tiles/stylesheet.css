@@ -1,0 +1,38 @@
+#bulk {
+    position:absolute;
+    width:1024px;
+    height:100%;
+    margin-left:-580px;
+    left:50%;
+    background-color:aliceblue;
+}
+.default_tile_display{
+    width: 630px;
+    height: 284px;
+} 
+
+
+body {
+    font: 10px sans-serif;
+}
+
+text {
+    fill: #000;
+    font-weight: 700;
+}
+
+button {
+    position: absolute;
+    right: 20px;
+    top: 440px;
+    display: none; 
+}
+
+.domain {
+    
+}
+path.line {
+    fill: none;
+    stroke: #3d3d3d;
+    stroke-width: 3;
+}
